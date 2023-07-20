@@ -74,6 +74,4 @@ public class ArriendoLocalComida extends Arriendo {
         
         return cadena;
     }
-    
-        
 }

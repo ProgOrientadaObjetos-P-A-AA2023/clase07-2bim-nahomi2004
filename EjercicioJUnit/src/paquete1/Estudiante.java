@@ -56,5 +56,4 @@ public class Estudiante {
     public int obtenerEdadEstudiante(){
         return edadEstudiante;
     }
-
 }

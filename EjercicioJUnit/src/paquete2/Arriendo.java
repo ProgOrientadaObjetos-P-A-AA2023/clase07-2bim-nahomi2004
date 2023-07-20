@@ -40,7 +40,5 @@ public abstract class Arriendo {
     
     public double obtenerArriendoMensual(){
         return arriendoMensual;
-    }
-    
-    
+    }   
 }

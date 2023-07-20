@@ -20,6 +20,4 @@ public class Docente {
     public String obtenerTipo(){
         return tipo;
     }
-    
-    
 }
